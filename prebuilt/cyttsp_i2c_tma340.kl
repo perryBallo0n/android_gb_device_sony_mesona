@@ -1,0 +1,4 @@
+# Key layout file for Cypress TMA340 touch buttons (Sony Xperia Miro / mesona)
+key 158   BACK              WAKE_DROPPED
+key 102   HOME              WAKE
+key 139   MENU              WAKE_DROPPED

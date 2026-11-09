@@ -1,0 +1,24 @@
+/dev/kgsl-3d0             0666   system     graphics
+/dev/kgsl-2d0             0666   system     graphics
+/dev/kgsl-2d1             0666   system     graphics
+/dev/genlock              0666   system     graphics
+/dev/pmem                 0666   system     graphics
+/dev/msm_rotator          0660   system     graphics
+/dev/pmem_adsp*           0660   system     audio
+/dev/pmem_audio           0660   system     audio
+/dev/msm_pcm_out*         0660   system     audio
+/dev/msm_pcm_in*          0660   system     audio
+/dev/msm_pcm_ctl*         0660   system     audio
+/dev/msm_snd*             0660   system     audio
+/dev/msm_mp3*             0660   system     audio
+/dev/msm_audpre           0660   system     audio
+/dev/msm_audio_ctl        0660   system     audio
+/dev/smd0                 0640   radio      radio
+/dev/smd7                 0640   radio      radio
+/dev/smdcntl0             0640   radio      radio
+/dev/smdcntl1             0640   radio      radio
+/dev/smdcntl2             0640   radio      radio
+
+# Camera
+/dev/video*               0660   system     camera
+/dev/msm_camera/*         0660   system     camera

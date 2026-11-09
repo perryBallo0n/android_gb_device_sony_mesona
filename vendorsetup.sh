@@ -1,0 +1,2 @@
+add_lunch_combo full_mesona-eng
+add_lunch_combo full_mesona-userdebug

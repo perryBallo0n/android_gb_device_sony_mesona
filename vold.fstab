@@ -1,0 +1,7 @@
+## Vold 2.0 Miro (mesona) fstab
+
+# Internal eMMC storage (partition 16)
+dev_mount sdcard /mnt/sdcard 16 /devices/platform/msm_sdcc.3/mmc_host/mmc0
+
+# External microSD slot
+dev_mount sdcard_ext /mnt/ext_card auto /devices/platform/msm_sdcc.1/mmc_host/mmc1

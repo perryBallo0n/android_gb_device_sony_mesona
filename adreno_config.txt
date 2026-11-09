@@ -1,0 +1,3 @@
+waitForIdleAfterDraw = 1
+waitForIdleOnSubmit = 1
+enableOptimizedVboUpdates = 0
